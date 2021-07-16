@@ -14,23 +14,18 @@ public class Message
 {
     // déclaration des membres utilisés pour encoder et décoder des messages
     // ici le boolean qui déterminera si le message est codé ou non, et donc s'il faut le coder ou le décoder
-    private boolean encoded;
+    private final boolean encoded;
 
-    // liste des lignes du message non codé - inutilisé car récupéré directement
-    private List<String> msgClear;
-
-    // pareil qu'au dessus pour le message décodé
-    private List<String> msgEncodded;
 
     // chemin du fichier copntenant le message décodé
-    private Path msgClearPath;
+    private final Path msgClearPath;
 
 
     // chemin du fichier copntenant le message encodé
-    private Path msgEncodedPath;
+    private final Path msgEncodedPath;
 
     // chemin de la clef de décryptage
-    private Path keyPath;
+    private final Path keyPath;
 
 
     // clef de décryptage
