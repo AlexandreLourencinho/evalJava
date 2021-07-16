@@ -20,14 +20,16 @@ public class Gui
 
         // boucle menu
         do {
-            System.out.println("╔═══════════════════════════╗");
-            System.out.println("║  Système d'encodage et de ║");
-            System.out.println("║    décodage de messages   ║");
-            System.out.println("╠═══════════════════════════╣");
-            System.out.println("║   1) Encoder un message   ║");
-            System.out.println("║   2) Décoder un message   ║");
-            System.out.println("║   0) Quitter le programme ║");
-            System.out.println("╚═══════════════════════════╝");
+            System.out.println("""
+                    ╔═══════════════════════════╗
+                    ║  Système d'encodage et de ║
+                    ║    décodage de messages   ║
+                    ╠═══════════════════════════╣
+                    ║   1) Encoder un message   ║
+                    ║   2) Décoder un message   ║
+                    ║   0) Quitter le programme ║
+                    ╚═══════════════════════════╝
+                    """);
             choix = sc.nextInt();
 
             // switch pour le menu
