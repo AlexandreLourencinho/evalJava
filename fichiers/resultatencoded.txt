@@ -1,0 +1,4 @@
+Le Java n'est pas le langage le plus simple.
+Tenez bon, quand on passe les difficultes, c'est un langage riche et puissant.
+Bon courage et merci d'avoir fait ce TD.
+Germain.

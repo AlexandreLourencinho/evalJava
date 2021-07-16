@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/JavaTd/lib/germLibCrypt-1.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/JavaTd/lib/germLibCrypt .jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/JavaTd/lib/commons-lang3-3.12.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/JavaTd/lib/commons-lang3-3.12.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,24 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaTd:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaTd_jar</output-path>
+    <root id="archive" name="JavaTd.jar">
+      <element id="module-output" name="JavaTd" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/germLibCrypt .jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/commons-lang3-3.12.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/germLibCrypt-1.0-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/commons-lang3-3.12.0-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/out/production/JavaTd/lib/germLibCrypt-1.0-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/out/production/JavaTd/lib/germLibCrypt .jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/out/production/JavaTd/lib/commons-lang3-3.12.0-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/out/production/JavaTd/lib/commons-lang3-3.12.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/out/production/dossiers_de_depots/lib/commons-lang3-3.12.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/out/production/dossiers_de_depots/lib/germLibCrypt-1.0-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/out/production/dossiers_de_depots/lib/germLibCrypt .jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/out/production/dossiers_de_depots/lib/commons-lang3-3.12.0-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/germLibCrypt .jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-lang3-3.12.0-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-lang3-3.12.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/germLibCrypt-1.0-javadoc.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
